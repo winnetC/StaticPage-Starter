@@ -1,3 +1,3 @@
 # StaticPage
-Static website for GitHub Actions deployment example.
+Static website to familiarize myself with GitHub, including repository management, branching strategies, and issue tracking
  
